@@ -1,0 +1,24 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "Exercise on testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimsCode/markov.git"
+  },
+  "author": "Prima Jenkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrimsCode/markov/issues"
+  },
+  "homepage": "https://github.com/PrimsCode/markov#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security",
+    "process": "^0.11.10"
+  }
+}
